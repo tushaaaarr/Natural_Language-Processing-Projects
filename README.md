@@ -1,5 +1,8 @@
 # Natural_Language-Processing-Projects
 Binary classification Machine Learning Projects (We are using NLTK library for Text Processing )  
+NLP, or natural language processing is a field concerned with the ability to understand, analyze, manipulate and potentially generate human language.
+
+
 Text Processing 
  1.Removing Punctuations
  2.Removing Stopwords
